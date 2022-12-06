@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>G:\源代码\SVN密码修改\SVNPassWord\SVNPassWord\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-12-06T06:56:35.7074033Z;True|2022-12-06T14:53:58.3638879+08:00;True|2022-12-06T14:45:33.3506126+08:00;True|2022-12-06T13:57:35.5735461+08:00;True|2022-12-06T13:57:20.2545861+08:00;True|2022-12-06T13:56:24.9328150+08:00;True|2022-12-06T11:21:31.4190573+08:00;</History>
+  </PropertyGroup>
+</Project>
